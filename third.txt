@@ -1,1 +1,0 @@
-This is my third file for learning git. These are a few changes to the file because we want to see the differences in GIT. 
